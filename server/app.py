@@ -1,10 +1,9 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-
 from interfaces import MainWindow
-from modules.server import  Server
+from modules.server import Server
 
-class ApplicationApp:
+class Application:
     def __init__(self, title: str) -> None:
         self.__server__ = Server()
         self.__app__ = QApplication(sys.argv)

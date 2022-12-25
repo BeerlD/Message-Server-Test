@@ -1,4 +1,5 @@
-from app import ApplicationApp
+from app import Application
+from modules import configs
 
-app = ApplicationApp("Message Server Test - Server")
+app = Application(configs.APP_TITLE)
 app.run()
