@@ -1,0 +1,4 @@
+APP_TITLE = "Message Server Test - Server"
+
+SERVER_PORT = 5001
+SERVER_MAX_CONNECTIONS = 100
