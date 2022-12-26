@@ -10,6 +10,6 @@ Apos executar o [server](bin/server.exe "Windows EXE"), será aberto uma porta d
 
 ## Testes
 
-> A versão de testes é apenas para testes e pode causar bugs.
+> A versão de testes pode causar bugs.
 
-Para fazer os testes va para o [diretorio](test/) de testes e execute o [`main.py`](test/main.py) em um prompt de comando.
+Va para o [diretorio](test/) e execute o [`main.py`](test/main.py) em um prompt de comando.
